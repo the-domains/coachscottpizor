@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-22T02:02:04.141Z'
+datePublished: '2016-08-22T02:03:44.507Z'
 isBasedOnUrl: 'https://www.youtube.com/watch?v=xLzM2_Owyrw'
 author:
   - name: Rise Up Performance
@@ -31,7 +31,7 @@ metadata:
   description: >-
     Song: "Promentory" from the film "The Last of the Mohicans" Trainer:
     @FullThrottle_T2D Film: @N8Visuals Editing: @RiseUp_Performance
-dateModified: '2016-08-22T02:02:03.810Z'
+dateModified: '2016-08-22T02:03:43.989Z'
 title: BASKETBALL MOTIVATION - Rise Up Performance and Full Throttle Workout
 id: 7b91e02e-f541-42c5-aed6-380d0bb60b60
 publisher:
@@ -40,9 +40,9 @@ publisher:
   favicon: 'https://www.youtube.com/favicon.ico'
   domain: www.youtube.com
 description: Collaboration With Full Throttle Basketball
-starred: false
 sourcePath: >-
   _posts/2016-08-22-basketball-motivation-rise-up-performance-and-full-throttl.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
