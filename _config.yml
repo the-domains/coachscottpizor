@@ -1,20 +1,14 @@
 layout_spectrum: 0.2898348611779511
-typography_spectrum: 0.3490619899239391
+typography_spectrum: 0.7276983521878719
 color:
   brandStrength: 0.36019081505946815
   lightness: 0.312595933675766
   saturation: 0.12479261681437492
   rhythmicContrast: 0.9843765287660062
   brandColors:
-    - '#000000'
-    - '#333333'
-    - '#FF358B'
-    - '#01B0F0'
-    - '#AEEE00'
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
 name: coachscottpizor
-navigation:
-  - name: Bookings
-    url: 'https://www.coachup.com/coaches/scottp-15?edit_mode=false'
-    type: external
-title: Coach Scott Pizor
-description: Performance Training
