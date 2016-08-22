@@ -1,4 +1,3 @@
-layout_spectrum: 0.2898348611779511
 typography_spectrum: 0.7276983521878719
 color:
   brandStrength: 0.36019081505946815
@@ -11,4 +10,6 @@ color:
     - '#FF358B'
     - '#01B0F0'
     - '#AEEE00'
+layout_spectrum: 0.2898348611779511
 name: coachscottpizor
+description: Performance Training
