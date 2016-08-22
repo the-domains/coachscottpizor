@@ -1,14 +1,7 @@
 ---
-author:
-  - name: Rise Up Performance
-    url: 'https://www.youtube.com/channel/UCW4Lr-7lSJVzoQYxRkv4nGA'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+datePublished: '2016-08-22T01:56:49.997Z'
+sourcePath: _posts/2016-08-22-upper-body-basketball-training-rise-up-performance.md
+isBasedOnUrl: 'https://www.youtube.com/watch?v=C8HXuWK2tz4'
 keywords:
   - duration
   - workouts
@@ -20,12 +13,14 @@ keywords:
   - tapetrainingsystems
   - marshon
   - nba
-description: >-
-  Full upper body workout with Rise Up Performance. Building functional strength
-  with an emphasis on balance, stability, coordination and explosive power.
-  Instrumentals: Loyalty - Birdman feat. Lil Wayne, Tyga Pushin - Bun B feat.
-  Scarface, Young Jeezy
-inLanguage: en
+related: []
+author:
+  - name: Rise Up Performance
+    url: 'https://www.youtube.com/channel/UCW4Lr-7lSJVzoQYxRkv4nGA'
+    avatar: {}
+via: {}
+dateModified: '2016-08-22T01:56:49.680Z'
+title: Upper Body Basketball Training - Rise Up Performance
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=C8HXuWK2tz4&feature=applinks'
     type: ios
@@ -63,18 +58,23 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=C8HXuWK2tz4'
-title: Upper Body Basketball Training - Rise Up Performance
-datePublished: '2016-08-22T01:55:33.457Z'
-dateModified: '2016-08-22T01:54:55.455Z'
-via: {}
+publisher:
+  url: 'https://www.youtube.com/'
+  name: YouTube
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+  domain: www.youtube.com
+description: >-
+  Full upper body workout with Rise Up Performance. Building functional strength
+  with an emphasis on balance, stability, coordination and explosive power.
+  Instrumentals: Loyalty - Birdman feat. Lil Wayne, Tyga Pushin - Bun B feat.
+  Scarface, Young Jeezy
+inLanguage: en
 starred: false
-sourcePath: _posts/2016-08-22-upper-body-basketball-training-rise-up-performance.md
 inFeed: true
 hasPage: false
 inNav: false
-_type: VideoObject
 _context: 'http://schema.org'
+_type: VideoObject
 
 ---
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FC8HXuWK2tz4%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DC8HXuWK2tz4&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FC8HXuWK2tz4%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
