@@ -12,5 +12,9 @@ color:
     - '#AEEE00'
 layout_spectrum: 0.2898348611779511
 name: coachscottpizor
+navigation:
+  - name: Bookings
+    url: 'https://www.coachup.com/coaches/scottp-15?edit_mode=false'
+    type: external
 title: Coach Scott Pizor
 description: Performance Training
